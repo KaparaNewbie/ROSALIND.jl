@@ -1,0 +1,1 @@
+A clumsy way to code two methods in one function :drums
